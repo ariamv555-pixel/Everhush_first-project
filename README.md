@@ -1,6 +1,6 @@
 # Everhush_first-project
 
-Nombre del juego: Everhush 
+Nombre del juego: Everhush 🪸🫧
 
 Género y plataforma: Videojuego de plataformas 2D con elementos de exploración y aventura, pensado para PC.
 
